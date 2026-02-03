@@ -1,0 +1,10 @@
+{
+  "total_samples": 3,
+  "successful": 3,
+  "failed": 0,
+  "total_nodes": 330,
+  "total_edges": 12825,
+  "total_contradictions": 306,
+  "avg_nodes_per_graph": 110.0,
+  "avg_edges_per_graph": 4275.0
+}
